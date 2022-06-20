@@ -1,4 +1,4 @@
-# Skirmishes Database
+# Skirmish Analysis Kit
 
 Project of a tool to collect and analyse skirmishes. 
 
